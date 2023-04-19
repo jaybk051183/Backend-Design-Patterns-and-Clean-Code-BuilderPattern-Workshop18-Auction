@@ -1,0 +1,1 @@
+<img src="C:\Users\Kaila\OneDrive\Desktop\Novi - FSD\Back-end SD\Lesopdrachten\Les 18 Design Patterns &amp; Clean Code\MicrosoftTeams-image (5).png"/>
